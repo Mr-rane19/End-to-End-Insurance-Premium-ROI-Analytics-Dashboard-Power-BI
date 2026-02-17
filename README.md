@@ -73,10 +73,10 @@ This dashboard solves these challenges through interactive and dynamic financial
 
 1. Summary Dashboard
 2. Insurance Overview
-3. Investment Amount vs Maturity Analysis
+3. Investment Amount vs Maturity Amount
 4. Annual Premium vs Protection Value
 5. Premium Analysis (5–10 Years)
-6. Sales Hierarchy Dashboard
+6. Sales Hierarchy
 
 ---
 
